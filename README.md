@@ -1,7 +1,7 @@
 # Pterodactyl-Server-Details-Grabber
 
 ## Getting User API token:
-1. Navigate to yourpanel/account/api and create an api token
+1. Navigate to https://yourpanel.com/account/api and create an api token
 
 ## Getting Server External ID:
 1. Navigate to your server's "about" section
