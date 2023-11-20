@@ -1,0 +1,1 @@
+# Pterodactyl-Server-Details-Grabber
